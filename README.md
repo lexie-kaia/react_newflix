@@ -32,3 +32,14 @@ Learning React Fundimentals by building a Movie Discovery App.
 - [x] install styled-conponents
   - `$ yarn add styled-components`
   - `$ yarn add styled-reset`
+- [x] create global styles
+
+## create TMDB api
+
+- [x] Now playing(Movie)
+- [x] Upcoming(Movie)
+- [x] Popular (Movie, TV)
+- [x] Top Rated(TV)
+- [x] Airing Today (TV)
+- [x] detail (Movie, TV)
+- [x] search (Movie, TV)
